@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "AvailableCache\\": "src"
+            "AvailableCache\\": "src/"
         }
     },
     "autoload-dev": {
